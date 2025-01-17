@@ -1,4 +1,4 @@
-![MasterHead]( https://github.com/sourikata2/sourikata2/blob/main/New%20Project.jpg?raw=true)
+![MasterHead]( https://github.com/sourikata2/sourikata2/blob/main/banner.png?raw=true)
 ## Hi there 👋
 
 <!--
